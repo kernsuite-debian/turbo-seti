@@ -1,0 +1,9 @@
+.debhelper/
+files
+*.debhelper.log
+*.postinst.debhelper
+*.prerm.debhelper
+*.substvars
+python-turbo-seti/
+tmp/
+turbo-seti/

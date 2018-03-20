@@ -1,0 +1,43 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: turbo-seti
+Source: https://github.com/UCBerkeleySETI/turbo_seti
+
+Files:     debian/*
+Copyright: 2018 Gijs molenaar <gijs@pythonic.nl>
+License:   MIT
+
+
+Files:     README.md
+           scripts/__init__.py
+           scripts/find_candidates.py
+           scripts/plot_candidates.py
+           scripts/seti_event.py
+           scripts/taylor_tree.pyx
+           setup.py
+           turbo_seti/__init__.py
+           turbo_seti/dedoppler_bones/.DS_Store
+           turbo_seti/dedoppler_bones/__init__.py
+           turbo_seti/dedoppler_bones/data_handdler.py
+           turbo_seti/dedoppler_bones/dedopp.py
+           turbo_seti/dedoppler_bones/file_writers.py
+           turbo_seti/dedoppler_bones/fits_wrapper.py
+           turbo_seti/dedoppler_bones/helper_functions.py
+           turbo_seti/drift_indexes/drift_indexes_array_2.txt
+           turbo_seti/drift_indexes/drift_indexes_array_3.txt
+           turbo_seti/drift_indexes/drift_indexes_array_4.txt
+           turbo_seti/drift_indexes/drift_indexes_array_5.txt
+           turbo_seti/drift_indexes/drift_indexes_array_6.txt
+           turbo_seti/drift_indexes/drift_indexes_array_7.txt
+           turbo_seti/drift_indexes/drift_indexes_array_8.txt
+           turbo_seti/drift_indexes/drift_indexes_array_9.txt
+Copyright: __NO_COPYRIGHT_NOR_LICENSE__
+License:   __NO_COPYRIGHT_NOR_LICENSE__
+
+#----------------------------------------------------------------------------
+# huge files   (skipped):
+#         turbo_seti/drift_indexes/drift_indexes_array_11.txt
+#         turbo_seti/drift_indexes/drift_indexes_array_10.txt
+
+#----------------------------------------------------------------------------
+# Files marked as NO_LICENSE_TEXT_FOUND may be covered by the following
+# license/copyright files.
