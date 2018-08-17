@@ -7,3 +7,8 @@
 
 %:
 	dh $@ --with python2
+
+override_dh_clean:
+	dh_clean
+	rm -f turbo_seti/findoppler/taylor_tree.c
+
