@@ -1,3 +1,13 @@
+turbo-seti (0.7.2~git20180804.65951fa-1) bionic; urgency=medium
+
+  [ Gijs Molenaar ]
+  * new style watch
+  * New upstream version 0.7.2~git20180804.65951fa
+  * workaround for issue #9
+  * add missing dependencies
+
+ -- KERN packaging <packaging@kernsuite.info>  Fri, 17 Aug 2018 11:56:31 +0200
+
 turbo-seti (0.0.1+git20180320-1kern1) bionic; urgency=low
 
   * Initial release.
