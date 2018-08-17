@@ -1,2 +1,2 @@
-from dedoppler_bones import *
-from bin import * 
+from .findoppler import seti_event, find_candidates, plot_candidates
+
