@@ -1,3 +1,10 @@
+turbo-seti (0.7.2~git20181014.e702a35-1) bionic; urgency=medium
+
+  [ Gijs Molenaar ]
+  * New upstream version 0.7.2~git20181014.e702a35
+
+ -- KERN packaging <packaging@kernsuite.info>  Thu, 08 Nov 2018 10:36:13 +0100
+
 turbo-seti (0.7.2~git20180804.65951fa-1) bionic; urgency=medium
 
   [ Gijs Molenaar ]
